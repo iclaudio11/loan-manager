@@ -27,7 +27,7 @@ The contract uses a Solidity library called InterestCalculator to calculate inte
    - Monitor your contract's activity using [Etherscan](https://etherscan.io/) or an explorer for the testnet used.
 
 ## Contract Address 
-The published contract address is: 0x5E798DCDbA9D9ef634C8500483c62342347Fe2fd
+The published contract address is: 0xEc29164D68c4992cEdd1D386118A47143fdcF142
 
 ## Authors
 - [Claudio Iaculo]
